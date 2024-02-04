@@ -6,8 +6,9 @@ body {
   width: 100%;
 }
 .heading {
+  margin-top: 60px;
   font-weight: 700;
-  font-size: 5pc;
+  font-size: 3pc;
   display: flex;
   justify-content: center;
   align-items: center;
